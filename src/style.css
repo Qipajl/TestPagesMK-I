@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+/* 隐藏滚动条，但仍然可以滚动 */
+::-webkit-scrollbar {
+  display: none;
+}
